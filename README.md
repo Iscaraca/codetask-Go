@@ -5,7 +5,7 @@ I have never used Go before this, so I'm doing this in hopes of getting fluent a
 
 ## Why I'm learning Go
 1. It's supposedly great for web development
-2. I use statically typed languages a lot like C++ (and tend to prefer them over dynamically typed)
+2. I use statically typed languages a lot (and I prefer to use them over dynamically typed languages)
 3. Go doesn't have excessive boilerplate code unlike Ruby
 4. Fast compile times, almost akin to that of C
 

@@ -9,7 +9,7 @@ I have never used Go before this, so I'm doing this in hopes of getting fluent a
 3. Go doesn't have excessive boilerplate code unlike Ruby
 4. Fast compile times, almost akin to that of C
 
-Tasks complete:
+## Tasks complete:
 - 100 Doors (27/4/2020): Basic syntax and for loop
 - A + B (28/4/2020): Initialise functions
 - gpa (28/4/2020): Set precision of standard output float

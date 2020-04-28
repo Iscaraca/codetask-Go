@@ -1,0 +1,4 @@
+Task
+
+Given a square with side length n and an equilateral triangle with side length m, find the area and perimeter of each shape.
+You are required to use an object oriented approach.

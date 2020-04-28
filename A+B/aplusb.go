@@ -10,6 +10,6 @@ func add(x, y int) (result int) { // Takes in two integers as parameters, return
 }
 
 func main() {
-	fmt.Println(add(5, 4))
-	fmt.Println(add(-7, 0))
+	fmt.Println(add(5, 4)) // Prints 9
+	fmt.Println(add(-7, 0)) // Prints -7
 }

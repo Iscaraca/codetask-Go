@@ -1,0 +1,11 @@
+Task
+
+The greatest common divisor of 2 numbers, also known as the highest common factor, is the highest whole number that can divide those 2 numbers without leaving any remainder.
+
+Input
+
+2 numbers, a and b.
+
+Output
+
+Output a single integer, the greatest common divisor of the 2 numbers.

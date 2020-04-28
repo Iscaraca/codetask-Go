@@ -7,3 +7,4 @@ Tasks complete:
 - 100 Doors (27/4/2020): Basic syntax and for loop
 - A + B (28/4/2020): Initialise functions
 - gpa (28/4/2020): Set precision of standard output float
+- descsort (28/4/2020): Sorting a slice, using comparator functions to determine sorting sequence

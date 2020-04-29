@@ -16,3 +16,4 @@ I have never used Go before this, so I'm doing this in hopes of getting fluent a
 - descsort (28/4/2020): Sorting a slice, using comparator functions to determine sorting sequence
 - standardshapes (29/4/2020): OOP, composition by embedding structs, pointers to set object values
 - gcd (29/4/2020): Recursion
+- guessthenumber (30/4/2020): Binary search

@@ -17,3 +17,4 @@ I have never used Go before this, so I'm doing this in hopes of getting fluent a
 - standardshapes (29/4/2020): OOP, composition by embedding structs, pointers to set object values
 - gcd (29/4/2020): Recursion
 - guessthenumber (30/4/2020): Binary search
+- reversestring (no additional memory) (30/4/2020): Converting strings into mutable byte arrays

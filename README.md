@@ -18,4 +18,4 @@ I have never used Go before this, so I'm doing this in hopes of getting fluent a
 - gcd (29/4/2020): Recursion
 - guessthenumber (30/4/2020): Binary search
 - reversestring (no additional memory) (30/4/2020): Converting strings into mutable byte arrays
-- reversedlinkedlist (1/5/2020): Linked lists, pointers.
+- reversedlinkedlist (1/5/2020): Linked lists, pointers, methods.

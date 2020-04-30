@@ -21,17 +21,17 @@ type equilateralTriangle struct {
 }
 
 func (s *Square) setSquDetails() {
-	s.area = s.length * s.length // Set square area as length^2
-	s.perimeter = s.length * 4   // Set square perimeter as length * 4
+	s.area = s.length * s.length
+	s.perimeter = s.length * 4 
 }
 
 func (t *equilateralTriangle) setTriDetails() {
-	t.area = t.base * t.base * (math.Sqrt(3) / 4) // Set triangle area as (sqrt(3)/4) * base^2
-	t.perimeter = t.base * 3                      // Set triangle perimeter as base * 3
+	t.area = t.base * t.base * (math.Sqrt(3) / 4)
+	t.perimeter = t.base * 3
 }
 
 func main() {
-	GenericShape := Shape{0, 0} // Generic shape struct with area = 0 and perimeter = 0
+	GenericShape := Shape{0, 0} // Generic shape struct for later shapes to inherit from
 
 	Square1 := Square{5, GenericShape} // Object Square1 with length 5
 	Square1.setSquDetails()

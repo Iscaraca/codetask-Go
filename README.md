@@ -20,3 +20,6 @@ I have never used Go before this, so I'm doing this in hopes of getting fluent a
 - reversestring (no additional memory) (30/4/2020): Converting strings into mutable byte arrays
 - reversedlinkedlist (1/5/2020): Linked lists, pointers, methods
 - knightsdialler (2/5/2020): 2D slices, matrix multiplication
+
+## Ambitious problems I'll come back to after learning more:
+- travellingsalesman

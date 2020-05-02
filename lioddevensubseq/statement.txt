@@ -1,0 +1,4 @@
+Longest Increasing Odd Even Subsequence
+
+Given an array of size n. The problem is to find the length of the subsequence in the given array such that all the elements of the subsequence are sorted in increasing order and also they are alternately odd and even.
+Note that the subsequence could start either with the odd number or with the even number.

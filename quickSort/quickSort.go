@@ -29,7 +29,6 @@ func append(original []int, value int) []int { // Appends values to an array
 
 	copy(target, original[:len(original)])
 	target[len(original)] = value
-	copy(target[len(original)+1:], original[len(original):])
 
 	return target
 }

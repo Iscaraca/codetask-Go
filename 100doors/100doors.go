@@ -1,4 +1,3 @@
-// My attempt at 100 Doors using Go
 package main
 
 import "fmt"

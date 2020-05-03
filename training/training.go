@@ -14,8 +14,10 @@ func append(arr []int, value int) []int {
 	return target
 }
 
-// [3,4,5,6]
-// [    3,3]
+// length = 4
+// Number = 3
+// temp = [3,4,5,6]
+// dp = [    3,3]
 
 func training(arr []int, number int) int {
 	temp := make([]int, len(arr))

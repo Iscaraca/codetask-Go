@@ -20,7 +20,8 @@ import (
 	Finally I realised that i could initialise an array of type []int and append
 	values to it using a function I wrote to extend the length of the array by
 	making a copy of it. I wonder if there's a more memory efficient way to do
-	this. Maybe I could make a copy
+	this. Maybe I could grow the array by a larger number each time? Something
+	to work on in a later question maybe.
 */
 
 func append(original []int, value int) []int { // Appends values to an array

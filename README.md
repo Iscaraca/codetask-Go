@@ -22,6 +22,7 @@ I have never used Go before this, so I'm doing this in hopes of getting fluent a
 - knightsdialler (2/5/2020): 2D slices, matrix multiplication
 - lioddevensubseq (3/5/2020): Dynamic programming
 - lcs (3/5/2020): Dynamic programming, slices, using range to iterate over elements in arrays
+- quickSort (3/5/2020): Quick sort, appending to and making copies of arrays, reading from files, converting str to int
 
 ## Ambitious problems I'll come back to after learning more:
 - travellingsalesman

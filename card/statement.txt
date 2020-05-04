@@ -1,0 +1,36 @@
+Alice is a card dealer at the poker table in the newly opened ResortWorld casino. As a strange personal quirk, she has two ways of moving a card when she shuffles the deck:
+
+A: She takes the card at the top of the deck and moves it to the bottom.
+
+B: She takes the second card from the top of the deck and moves it to the bottom
+
+Initially, Alice has m cards (note that m can be very much more than the standard 52 cards found in a deck) which are labeled consecutively: the card at the top is labeled 0 and the card at the bottom is labeled m-1.
+Task
+
+In this question we want to know: given a sequence of moves and a k, where 0 < k < m-1, what is the label of the (k-1)-th, k-th and (k+1)-th cards from the top of the deck after the entire sequence is applied? Here, we treat the top-most card as the 0-th card. in our example above, if k = 3, then the answer is "3 1 5"
+Input
+
+The first line of the input consists of two integers m and k, where 0 < k < m-1, and 3 ≤ m ≤ 1,000,000. This is followed (in the same line) by the sequence of moves. The last character in the input is the period ".", indicating the end of input.
+
+Output
+
+The output consists of 3 integers, representing the (k-1)-th, k-th and (k+1)-th cards from the top of the deck after the entire sequence of moves have been applied.
+Sample Input 1
+
+6 3 ABBABA.
+
+Sample Output 1
+
+3 1 5
+
+Explanation for Sample Output 1
+
+Initially, the deck is arranged as such: 0 1 2 3 4 5
+
+After each subsequent move, the deck will be arranged as such:
+A: 1 2 3 4 5 0
+B: 1 3 4 5 0 2
+B: 1 4 5 0 2 3
+A: 4 5 0 2 3 1
+B: 4 0 2 3 1 5
+A: 0 2 3 1 5 4 

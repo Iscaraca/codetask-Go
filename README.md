@@ -26,6 +26,7 @@ I have never used Go before this, so I'm doing this in hopes of getting fluent a
 - training (4/5/2020) (Google Kick Start 2019 Round A): Dynamic programming, clearing arrays
 - buildingpalindromes (4/5/2020) (Google Kick Start 2019 Round B): Slicing arrays
 - simplifyfrac (4/5/2020): Recursion
+- card (5/5/2020) (NOI 2010): Append, make, copy functions for slices
 
 ## Ambitious problems I'll come back to after learning more:
 - travellingsalesman

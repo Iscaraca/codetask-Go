@@ -1,0 +1,17 @@
+Problem Description
+
+FanPu is busy doing his math homework given by his math teacher, Squeaky the Rat. Today's math homework is on simplifying fractions.
+
+"This is easy", FanPu thinks to himself. "2/4 simplified is 1/2."
+
+However, suddenly, Kraw the Krow flies overhead and zaps his homework with a laser beam. Boom! The questions in FanPu's homework changed!
+
+"332/874?!", FanPu sits back in shock. "Such large numbers, it'll take me forever to simplify these!."
+
+FanPu knows Squeaky the Rat will be angry if he doesn't not submit his homework on time and he turns to you for help. Given a fraction A/B, help FanPu simplify the fraction.
+Input
+
+The first line of input will contain two integers A and B.
+Output
+
+Output a fraction C/D, the simplified form of the given fraction A/B.

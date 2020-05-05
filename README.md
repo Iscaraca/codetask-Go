@@ -30,6 +30,7 @@ I have never used Go before this, so I'm doing this in hopes of getting fluent a
 - aryaandthegreatwar (5/5/2020): Bitwise operators
 - deletewithoutheadpointer (5/5/2020): Linked list, pointers
 - bitdifference (5/5/2020): Brian Kernighan's Algorithm
+- hole (5/5/2020) (NOI 2007): DFS
 
 ## Ambitious problems I'll come back to after learning more:
 - travellingsalesman

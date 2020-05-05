@@ -29,6 +29,7 @@ I have never used Go before this, so I'm doing this in hopes of getting fluent a
 - card (5/5/2020) (NOI 2010): Append, make, copy functions for slices
 - aryaandthegreatwar (5/5/2020): Bitwise operators
 - deletewithoutheadpointer (5/5/2020): Linked list, pointers
+- bitdifference (5/5/2020): Brian Kernighan's Algorithm
 
 ## Ambitious problems I'll come back to after learning more:
 - travellingsalesman

@@ -28,6 +28,7 @@ I have never used Go before this, so I'm doing this in hopes of getting fluent a
 - simplifyfrac (4/5/2020): Recursion
 - card (5/5/2020) (NOI 2010): Append, make, copy functions for slices
 - aryaandthegreatwar (5/5/2020): Bitwise operators
+- deletewithoutheadpointer (5/5/2020): Linked list, pointers
 
 ## Ambitious problems I'll come back to after learning more:
 - travellingsalesman

@@ -32,6 +32,7 @@ I have never used Go before this, so I'm doing this in hopes of getting fluent a
 - bitdifference (5/5/2020): Brian Kernighan's Algorithm
 - hole (5/5/2020) (NOI 2007): DFS
 - extraelement (6/5/2020): Binary search across 2 arrays
+- vesakday (7/5/2020) (BBCS2020 Competition Submission): Dynamic programming
 
 ## Ambitious problems I'll come back to after learning more:
 - travellingsalesman

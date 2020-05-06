@@ -17,9 +17,11 @@ What is the maximum number of lanterns you can light up in one trip?
 
 Sample:
 
-Input:  [][]int = {{1, 2, 9}
-                   {5, 3, 8}
-                   {4, 6, 7}}
+Input:
+
+[][]int{{1, 2, 9},
+        {5, 3, 8},
+        {4, 6, 7}}
                    
 Output: 4
 The longest path you can take is 9-8-7-6. 

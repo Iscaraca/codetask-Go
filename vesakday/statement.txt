@@ -11,6 +11,8 @@ The lanterns are laid out in a square, and you can start at any point moving in 
 i.e., you can move to (i+1, j) or (i, j+1) or (i-1, j) or (i, j-1). Every time a new lantern is visited, you MUST use the
 lighter on it.
 
+All values of k are distinct.
+
 What is the maximum number of lanterns you can light up in one trip?
 
 Sample:

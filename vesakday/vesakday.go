@@ -60,7 +60,7 @@ func longestPath(lanterns [][]int) int {
 	}
 	memsetButInGo(dp)
 
-	// Compute longest path beginning from all cells
+	// Compute longest path beginning from all lanterns
 	for i := 0; i < n; i++ {
 		for j := 0; j < n; j++ {
 			if dp[i][j] == -1 {

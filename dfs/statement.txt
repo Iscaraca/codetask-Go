@@ -1,0 +1,4 @@
+Task:
+
+Do a depth first search traversal on a undirected, unweighted graph, printing out every node in a connected component exactly once
+given a node in the component.

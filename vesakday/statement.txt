@@ -5,7 +5,7 @@ As the abbot of the temple, you are in charge of lighting the multitude of lante
 However, each lantern requires your lighter to have a spark of exactly k power to light up, as too much power would
 result in the lantern going up in flames, while too little wouldn't be enough to ignite the lantern fuel. The lighter's
 power can be set to any positive integer value at the start, but every time it is used the power goes down by 1, and the
-lighter MUST light a lantern on every use.
+lighter MUST light a lantern on every use, because fuel is expensive.
 
 The lanterns are laid out in a grid, and you can start at any point moving in 4 directions from a given location (i, j),
 i.e., you can move to (i+1, j) or (i, j+1) or (i-1, j) or (i, j-1). Every time a new lantern is visited, you MUST use the

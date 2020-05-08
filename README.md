@@ -34,6 +34,7 @@ I have never used Go before this, so I'm doing this in hopes of getting fluent a
 - extraelement (6/5/2020): Binary search across 2 arrays
 - vesakday (7/5/2020) (BBCS2020 Competition Submission): Dynamic programming
 - coins (8/5/2020): Greedy
+- dfs (9/5/2020): Graph theory, depth first search, adjacency list
 
 ## Ambitious problems I'll come back to after learning more:
 - travellingsalesman

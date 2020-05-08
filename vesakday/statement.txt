@@ -2,7 +2,7 @@ Task:
 
 Vesak day is finally here! A large community has gathered at the temple, eager to watch the annual lantern ignition.
 As the abbot of the temple, you are in charge of lighting the multitude of lanterns already prepared for the ceremony.
-However, each lantern requires the lighter to have a spark of exactly k power to light up, as too much power would
+However, each lantern requires your lighter to have a spark of exactly k power to light up, as too much power would
 result in the lantern going up in flames, while too little wouldn't be enough to ignite the lantern fuel. The lighter's
 power can be set to any positive integer value at the start, but every time it is used the power goes down by 1, and the
 lighter MUST light a lantern on every use.

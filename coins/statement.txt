@@ -1,0 +1,23 @@
+Task
+
+After years and years of preparation, Alex is finally getting married! Yay!
+
+He excitedly headed towards the wedding agency, and booked the date of his wedding. He was told that the wedding would cost N cents. He opened his wallet, only to find a whole mess of coins and notes flooding out. Oh no! He would not want to give that whole floor worth of coins to the wedding agency! Looking at the floor, which was full of 1c, 5c, 10c, 50c, $1, $5, $10, $50, $100, $500, $1000, $5000 and $10000 coins and notes, he did not know which ones to give to the wedding agency. Help Rar by calculating the minimum number of coins and notes needed to pay his wedding fee of N cents by using the coins and notes he had.
+
+Input
+The input will consist of one integer, N.
+
+Output
+Your output should consist of one integer, the minimum number of coins and notes needed to form exactly N cents.
+
+Limits
+
+Subtask 1 (25%): 1 <= N <= 1,000,000
+Subtask 2 (75%): 1 <= N <= 1,000,000,000,000,000
+Sample Input 1
+
+76
+
+Sample Output 1
+
+5

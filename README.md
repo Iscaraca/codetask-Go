@@ -35,6 +35,7 @@ I have never used Go before this, so I'm doing this in hopes of getting fluent a
 - vesakday (7/5/2020) (BBCS2020 Competition Submission): Dynamic programming
 - coins (8/5/2020): Greedy
 - dfs (9/5/2020): Graph theory, depth first search, adjacency list
+- knapsack (10/5/2020): Knapsack, dynamic programming
 
 ## Ambitious problems I'll come back to after learning more:
 - travellingsalesman

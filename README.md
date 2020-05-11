@@ -37,6 +37,7 @@ I have never used Go before this, so I'm doing this in hopes of getting fluent a
 - dfs (9/5/2020): Graph theory, depth first search, adjacency list
 - knapsack (10/5/2020): Knapsack, dynamic programming
 - fizzbuzz (11/5/2020) (but in 2 minutes): Speed
+- minswaps (12/5/2020): Sorting an array of structs, graph theory
 
 ## Ambitious problems I'll come back to after learning more:
 - travellingsalesman

@@ -1,0 +1,28 @@
+Task
+
+Adam has too much money. Today, he is feeling rich and carried $B as pocket money to school.
+
+As he is too rich, he wants to feel poorer by converting his money into as few notes as possible and needs your help.
+
+In Adam's world, notes comes in denomations of powers of 2. (Eg: $1, $2, $4, $8, $16, $32 .. etc)
+Input
+
+A single integer, B, denoting how much money Adam brought to school today.
+
+It is guaranteed that B will fit into a 64-bit unsigned integer.
+
+Output
+
+A single integer, denoting the minimum number of notes required to express $B in notes.
+
+Sample Input
+
+19
+
+Sample Output
+
+3
+
+Explanation for Sample Testcase
+
+19 can be expressed as 16 + 2 + 1 for a minimum of 3 notes.

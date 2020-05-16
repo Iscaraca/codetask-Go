@@ -1,0 +1,28 @@
+Task:
+
+Watching Peanut and Bradley having fun with their card game, the envious Kraw the Evil Krow and Squeaky the Rat decided to play a game of
+marbles instead. Kraw has kindly brought a box of marbles and they started getting ready to play.At least that’s what it seems to be on the
+surface. The ’marbles’ that Kraw the Evil Krow has brought are actually M.A.R.B.L.E.s - ’Marble Armament Releases Big Loud Explosion’.
+These M.A.R.B.L.E.s,once triggered, are guranteed to ruin anyone’s day. Only Kraw the Evil Krow knows how to trigger the M.A.R.B.L.E.s to
+explode.Wanting to blow Peanut and Bradley’s card game up so that they can’t play anymore, Kraw the Evil Krow, with the assistance of Squeaky,
+has arranged his collection of N M.A.R.B.L.E.s in a neat row. An observant person would also notice that on the ith M.A.R.B.L.E., an integer Ai is etched onto it. With an evil grin on his face, Kraw, with a few presses of buttons on his multifunctional digital watch, proceeded to
+trigger the M.A.R.B.L.E.s to explode. A few moments later, Kraw has arrived at the final step. Kraw’s multifunctional digital watch prompts
+him for an administrator password to make the M.A.R.B.L.E.s to explode. However, Kraw the Krow has forgotten the password! He only remembers
+that the password is a certain integer K, where K is thesmallest number such that after the sequence of M.A.R.B.L.E.s Kraw has arranged is
+partitioned into M continuous segments, the sum of the integers etched on each M.A.R.B.L.E. for each segment is not morethan K. Oh no, now his
+plan is foiled Kraw and Squeaky will be forced to watch Peanut and Bradley have fun with their card game for the rest of their life! “Not quite
+yet!”, says Kraw the Krow with an evil smile on his face. Using his super-duper ultra powerful teleporter, he summoned ZJ the Code Monkey to
+find the combination for him, while he works with Squeaky the Rat to find other ways to sabotage Peanut and Bradley’s card game. Annoyed, ZJ
+wants youto find the password for him. Help ZJ find the password to trigger the M.A.R.B.L.E.s to explode, so that Kraw the Krow and Squeaky
+the Rat can happily watch Peanut and Bradley’s card game being ruined.
+
+Input:
+
+The first line contains two space separated integers,N and M.
+The following line contains N space separated integers, where theith integer isAi(1Ai1000000).It is also guranteed that the total sum of
+Ai is at most 1000000000.
+
+Output:
+
+Output a single integer, the password to trigger the explosion.Examplesstdinstdout6 34 2 4 5 1 17NoteThe sequence of M.A.R.B.L.E.s can be 
+partitioned into three segments this way:[4 2] [4] [5 1 1]The sum of each segment is not more than 7, which is the smallest possible integer.

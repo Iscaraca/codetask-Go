@@ -42,6 +42,7 @@ I have never used Go before this, so I'm doing this in hopes of getting fluent a
 - brackets (14/5/2020): Stack
 - binarycoins (15/5/2020): Least significant bit
 - marbles (16/5/2020): Greedy, binary search
+- countdown (17/5/2020) (Google Kick Start 2020 Round C): Running count
 
 ## Ambitious problems I'll come back to after learning more:
 - travellingsalesman

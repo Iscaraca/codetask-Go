@@ -4,9 +4,9 @@ This is a challenge to complete one (or more if I'm feeling good about myself) p
 I have never used Go before this, so I'm doing this in hopes of getting fluent at it eventually. As I complete tasks, I will note down the things I've learnt in this README together with the date of completion to track progress.
 
 ## Why I'm learning Go
-1. It's supposedly great for web development
-2. I use statically typed languages a lot and I prefer to use them 
-3. Go doesn't have excessive boilerplate code unlike Ruby
+1. great for web development
+2. statically typed
+3. no excessive boilerplate code unlike Ruby
 4. Fast compile times
 
 ## Tasks complete:
